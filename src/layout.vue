@@ -443,7 +443,7 @@ export default defineComponent({
 
 <style lang="scss" scoped>
 .layout-cards {
-	padding: var(--content-padding);
+	padding: 12px;
 	padding-top: 0;
 }
 
@@ -453,7 +453,7 @@ export default defineComponent({
 		var(--size),
 		minmax(0, 1fr)
 	);
-	gap: 32px 24px;
+	gap: 4px 4px;
 }
 
 .footer {

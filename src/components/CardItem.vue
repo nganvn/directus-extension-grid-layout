@@ -151,7 +151,7 @@ export default defineComponent({
 <style lang="scss" scoped>
 .card .title{
 	display: block;
-    font-size: 1.3rem;
+    font-size: 12px;
     font-weight: bold;
     margin-bottom: 8px;
     transition: all;
@@ -164,7 +164,7 @@ export default defineComponent({
 
 .card .subtitle{
 	display: block;
-    font-size: 1.1rem;
+    font-size: 12px;
     color: var(--text-normal);
 	display: -webkit-box;
     -webkit-line-clamp: 2;
@@ -175,7 +175,7 @@ export default defineComponent({
 
 }
 .card .time{
-    font-size: 0.9rem !important;
+    font-size: 12px;
     color: var(--text-normal) !important;
 	
 
@@ -234,7 +234,7 @@ export default defineComponent({
 	background-color: var(--background-highlight);
 }
 .icon-fall v-icon{
-	font-size: 2rem;
+	font-size: 12px;
 	width: 50px;
 	color: var(--text-normal);
 }

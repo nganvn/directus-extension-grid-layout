@@ -304,8 +304,8 @@ export default defineComponent({
 	align-items: center;
 	justify-content: space-between;
 	width: 100%;
-	height: 52px;
-	margin-bottom: 36px;
+	height: 32px;
+	margin-bottom: px;
 	padding: 0 8px;
 	background-color: var(
 		--background-page
